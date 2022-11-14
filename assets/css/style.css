@@ -46,6 +46,10 @@ a {
     text-decoration: none;
 }
 
+article {
+    font-size: 16px;
+}
+
 p {
     font-size: 16px;
 }
